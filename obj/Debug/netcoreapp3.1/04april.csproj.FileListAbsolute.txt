@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\04april\bin\Debug\netcoreapp3.1\04april.exe
+C:\Users\ASUS\Desktop\04april\bin\Debug\netcoreapp3.1\04april.deps.json
+C:\Users\ASUS\Desktop\04april\bin\Debug\netcoreapp3.1\04april.runtimeconfig.json
+C:\Users\ASUS\Desktop\04april\bin\Debug\netcoreapp3.1\04april.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\04april\bin\Debug\netcoreapp3.1\04april.dll
+C:\Users\ASUS\Desktop\04april\bin\Debug\netcoreapp3.1\04april.pdb
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.dll
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.pdb
+C:\Users\ASUS\Desktop\04april\obj\Debug\netcoreapp3.1\04april.genruntimeconfig.cache
